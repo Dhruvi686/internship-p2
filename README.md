@@ -27,6 +27,7 @@ P-value < 0.05 → Reject H₀
 CI shows likely range of conversion rates
 
 **🧠 Tech Stack**
+
 Python – Core language
 
 NumPy – Data simulation & calculations
