@@ -17,6 +17,7 @@ Early stopping via sequential testing
 Conversion rate plots
 
 🧪 Stats Overview
+
 H₀: No difference
 
 H₁: Significant difference
@@ -26,12 +27,12 @@ P-value < 0.05 → Reject H₀
 CI shows likely range of conversion rates
 
 🧠 Tech Stack
-Python
+Python – Core language
 
-NumPy
+NumPy – Data simulation & calculations
 
-Pandas
+Pandas – Data handling
 
-Matplotlib
+Matplotlib – Visualizations
 
-Statsmodels
+Statsmodels – Proportion Z-test
